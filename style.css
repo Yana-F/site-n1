@@ -1,0 +1,22 @@
+header img {
+width:120px;
+height:80px;
+}
+ header h1 {
+text-align:center;
+font-family:cursive;
+}
+main h1 {
+text-align:center;
+font-family:sans-serif ;
+}
+
+main img {
+border-radius:100px;
+width:200px ;
+height:150px ;
+}
+main p {
+font-family:sans-serif;
+
+}
